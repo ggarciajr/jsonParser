@@ -1,0 +1,10 @@
+= JSON parser =
+This is a sample application to demonstrate how to parse a json string and convert it into a Scala Object
+
+== About the app ==
+* scala 2.9.1
+* lift 2.4
+* sbt 0.11.2
+
+== Specs ==
+You can run the specs from inside a sbt session by running test command.
